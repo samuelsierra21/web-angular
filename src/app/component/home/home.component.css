@@ -1,0 +1,63 @@
+.content_img_principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-principal{
+    width: 100%;
+}
+.encabezado_quienes_somos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
+    width: 100%;
+}
+.content_quines_somos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 10vh;
+}
+.content_img_quienes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 50vw;
+    gap: 8vw;
+}
+.img_quienes{
+    width: 170%;
+}
+.content_quienes{
+    width: 80vw;
+}
+.content_quienes p{
+    font-size: 2.4vh;
+    line-height: 5vh;
+    font-family:sans-serif ;
+}
+/*LOGO*/
+.content_logo_cars{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    gap: 5vw;
+    cursor: pointer;
+}
+.ford{
+    width: 30vh;
+}
+.chevrole{
+    width: 30vh;
+}
+.renault{
+    width: 30vh;
+}
+.Logo-wv{
+    width: 30vh;
+}

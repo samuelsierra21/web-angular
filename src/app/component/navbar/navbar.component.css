@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.encabezado{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 15vh;
+    background:black;
+    display: flex;
+    gap: 9vw;
+}
+.container_logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: red;
+    font-size: 6vh;
+}
+.Busqueda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.busqueda_input{
+    width: 25vw;
+    height: 4.5vh;
+    border-radius: vw;
+    border: 2px black solid;
+    
+}
+.Busqueda input{
+    padding-left: 1vw;
+
+}
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: vw;
+}
+a{
+    color: #FFFFFF;
+    font-size: 3vh;
+    cursor: pointer;
+    margin-left: 20px;
+}
+.img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    width: 12vw;
+}
